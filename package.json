@@ -1,0 +1,9 @@
+{
+  "name": "taijutsu",
+  "version": "0.0.0",
+  "description": "parked npm package",
+  "main": "index.js",
+  "repository": "https://github.com/adelonzeta/taijutsu.git",
+  "author": "Adelon Zeta <adelonzeta@gmail.com>",
+  "license": "MIT"
+}
